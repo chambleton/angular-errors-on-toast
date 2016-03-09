@@ -1,0 +1,19 @@
+{
+  "name": "angular-errors-on-toast",
+  "version": "1.0.0",
+  "description": "Ever forget to open the console window while developing JavaScript? I know it's a cardinal sin, but once and a while I forget. I'm human.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chambleton/angular-errors-on-toast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chambleton/angular-errors-on-toast/issues"
+  },
+  "homepage": "https://github.com/chambleton/angular-errors-on-toast#readme"
+}
